@@ -21,10 +21,6 @@ public class BaseNew {
 		
 		Reporter.log("Launching Browser",true);
 		Thread.sleep(1000);
-		
-		
-		
-		
 	}
 	
 }
