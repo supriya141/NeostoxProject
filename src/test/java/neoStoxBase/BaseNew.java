@@ -20,6 +20,10 @@ public class BaseNew {
 		driver.get(UtilityNew.readDataFromPropertyFile("url"));  //to open or hit url
 		
 		Reporter.log("Launching Browser",true);
+		Reporter.log("Launching Browser",true);
+		Reporter.log("Launching Browser",true);
+		Reporter.log("Launching Browser",true);
+		
 		Thread.sleep(1000);
 	}
 	
